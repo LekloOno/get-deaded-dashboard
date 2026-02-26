@@ -5,3 +5,4 @@ This directory regroups resource about its progress.
 | resource | description |
 |----------|-------------|
 | [target](target)  | Describes in details what we expect for that v0.1. |
+| [todo](todo/)     | A list of things to do to achieve v0.1. |
