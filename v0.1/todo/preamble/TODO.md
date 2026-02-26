@@ -32,4 +32,6 @@ It's less of a big deal, and depending on the refacto, these might not be so nec
   - [ ] implement step climber
   - [ ] fix slopes interractions
 - [ ] Arms/weapons models and animation system
-- [ ] Fix GaudioProcessTree event over-disconnect bug
+- [ ] GaudioProcessTree
+  - [ ] event over-disconnect bug
+  - [ ] unbound time scale pitch bug
